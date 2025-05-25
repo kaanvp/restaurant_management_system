@@ -3,7 +3,7 @@
 Bu proje, Flutter ile geliştirilen modern ve kullanıcı dostu bir **Restoran Yönetim Sistemi** uygulamasıdır. Kullanıcılar yemekleri görüntüleyebilir, sepete ürün ekleyebilir, masa seçimi yapabilir ve farklı ödeme yöntemleriyle sipariş oluşturabilir.
 
 ---
-
+![Anasayfa](restaurant_management.jpg)
 ## 🚀 Özellikler
 - 🔐 Kullanıcı girişi (kullanıcı adı & şifre)
 - 🍽️ Kategorilere göre yemek ve içecek listeleme
